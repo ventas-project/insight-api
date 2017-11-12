@@ -60,8 +60,8 @@
     "bitcoreNode": "lib",
     "dependencies": {
         "async": "*",
-        "bitcore-lib": "http://git.etra.kr/bitpay/bitcore-lib/archive/master.tar.gz",
-        "bitcore-message": "http://git.etra.kr/bitpay/bitcore-message/archive/master.tar.gz",
+        "bitcore-lib": "https://github.com/ventas-project/bitcore-lib.git",
+        "bitcore-message": "https://github.com/ventas-project/bitcore-message.git",
         "body-parser": "^1.13.3",
         "compression": "^1.6.1",
         "lodash": "^2.4.1",
